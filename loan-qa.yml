@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to monkdevs loans related QA APIs "
   contactDetails:
-    name: "Pravin Chavan - QA Lead"
+    name: "Pravin Chavan - QA Architect"
     email: "Pravin@monkdevs.com"
   onCallSupport:
     - (666) 265-3765
