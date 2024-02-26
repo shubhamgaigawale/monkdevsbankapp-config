@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+loan:
   message: "Welcome to monkdevs loans related prod APIs "
   contactDetails:
     name: "Shubham Gaigawale - Product Owner"
